@@ -1,2 +1,3 @@
 # Emoji-Generation
-Now a days most of the people who are using social networking chat boxes were prefer to express their emotions  through emojis, I built an automated system to convert facial expressions into emojis
+Expressions are the better way to express inner feelings of a person instead of vocabulary. In most of the cases one who are doing conversation with the other person can prefer to express their feelings in the form of expressions.  Now a days most of the people who are using social networking chat boxes were prefer to express their emotions  through emojis. In the concept of digital conversations especially in chat boxes, if we go with an automated system which generates the suitable emoji based  on their facial expressions and present message in their conversation will help us to do effective and user friendly conversations. This system was built by using NLP, Deep Learning and OpenCV.
+
